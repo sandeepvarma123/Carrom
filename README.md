@@ -1,5 +1,5 @@
 # Carrom
-A Two Player Carrom Competition Game Using Jquery &amp; JavaScript
+A Two Player Carrom Competition Game Using Bootstrap, Jquery &amp; JavaScript
 
 Playing Instructions:
 1. Choose between Player1 & Player2. 
